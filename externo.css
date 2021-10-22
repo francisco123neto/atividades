@@ -5,5 +5,8 @@ body {
 background-color: #fcfcfc;
 }
 .titulo{
+	border-width: thin;
 	color: #764e36;
+	font-weight: bolder;
+        font-size: xx-large;
 }
