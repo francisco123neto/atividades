@@ -1,4 +1,4 @@
-﻿body
+body
 {margin:40px;
 }
 body {
@@ -16,4 +16,11 @@ background-color: #fcfcfc;
     color: #fff;
     font-size: x-large;
     font-weight: 900;
+}
+.imagem{
+    width:500px;
+	height:200px;
+    border: 3px inset #764e36;
+    padding: 15px;
+    
 }
