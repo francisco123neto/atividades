@@ -10,3 +10,10 @@ background-color: #fcfcfc;
 	font-weight: bolder;
         font-size: xx-large;
 }
+.paragrafo{
+    border-bottom: medium;
+    background: #764e36;
+    color: #fff;
+    font-size: x-large;
+    font-weight: 900;
+}
